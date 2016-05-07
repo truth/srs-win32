@@ -1,0 +1,1 @@
+objs\srs.exe -c conf\srs.conf
